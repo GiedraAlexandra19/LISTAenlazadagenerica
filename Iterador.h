@@ -26,7 +26,7 @@ template<typename J>
 
 //Operadores
 ostream& operator << (ostream& o, const Iterator<J>& data) {
-    o << data.g->Devol2();
+    o << data.g->Devolver1();
     return o;
 }
 template<typename J>
