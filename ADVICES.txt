@@ -1,0 +1,12 @@
+In class "ListaEnlazada.h" You should review the overload of 
+operators necessary for its correct operation.
+In the same way with the class "Iterator.h" I have observed 
+that it is necessary to overload the access operators (*) and 
+movement (++ p and p ++) for the correct functioning of the pattern.
+Also your "fill_random ()" method seems useless to me since 
+you work with templates and the generation of elements of that 
+method reduces all your abstraction to working with integers.
+I hope these tips can help you improve your developer skills.
+
+@MarkWatsonU
+Senior Software Developer on DCOPN 
